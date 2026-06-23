@@ -39,6 +39,7 @@ Justin Goodbread photos by category and use case.
 | Speaking — Exit Planning Summit (May 2025) | `justin/speaking/exit-planning-summit-2025/` | 21 | Speaking proof, authority |
 | Lifestyle — Anguilla (Apr 2026) | `justin/lifestyle/jg-lifestyle-anguilla-2026.jpg` | 1 | Lifestyle / brand |
 | Behind the scenes (2024) | `justin/bts/2024/` | 5 | Behind-the-scenes / brand |
+| Relentless / outdoors (2024-2025) | `justin/relentless/` | 9 | "Be Relentless" brand: outdoors, elk trip, wildlife |
 
 ### `proof/client-wins/`
 
@@ -89,7 +90,7 @@ Scales as more events are added (e.g. `destination-decamillionaire/bootcamps/aus
 ```
 justin/<category>/<context>/
 ```
-Categories: `headshots`, `speaking`, `lifestyle`, `bts`. Context groups by shoot or event.
+Categories: `headshots`, `speaking`, `lifestyle`, `bts`, `relentless`. Context groups by shoot or event.
 
 ### Proof
 ```
