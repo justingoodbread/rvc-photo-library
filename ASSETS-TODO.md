@@ -14,12 +14,17 @@ name per conventions → file under the right folder → update `README.md` inde
 
 ## To collect
 
-- [ ] **Destination DecaMillionaire — more events.** Library only has `nashville-2026/`.
-  Need the other in-person bootcamp photo sets (e.g. Austin, Scottsdale, San Diego per the
-  Sept 2026 Club Deca Bootcamp venue planning). **Source TBD** — confirm which Drive folder
-  holds the actual event *photos* (the "Destination DecaMillionaire- client in person" folder
-  currently has planning docs + venue PDFs, not a photo dump).
+- [x] **Destination DecaMillionaire — Nashville 2026 (Feb 25-26).** Confirmed COMPLETE.
+  Local source `~/Downloads/Destination Deca` (24 photos, dated Feb 26) is already fully in
+  the repo as `nashville-2026/` (Day 1: 19 + Day 2: 5). Frame-by-frame match. Nothing missing.
+
+- [ ] **Destination DecaMillionaire — future events.** Austin / Scottsdale / San Diego per the
+  Sept 2026 Club Deca Bootcamp venue planning. No event photos exist yet (those happen later).
   → `destination-decamillionaire/bootcamps/<location>-<year>/`
+
+- [ ] **May 2026 shoot — Relentless Value Media `1_Raw/Image`** (~190 raw photos, dated May 14
+  & May 27). A separate, unlabeled shoot (NOT Nashville). Needs visual triage to identify
+  usable Justin / event / proof shots, then optimize + name + file. Decide target category once triaged.
 
 - [ ] **RVC Media library — labeled RAW folders.** Many assets in the RVC Media Drive are
   already labeled in `RAW` subfolders. Identify which contain reusable Justin/event/proof
