@@ -36,8 +36,9 @@ Justin Goodbread photos by category and use case.
 | Pro shoot headshots (2024) | `justin/headshots/pro-shoot-2024/` | 5 | Ad creative, hero images, print |
 | Portrait set (Feb 2024) | `justin/headshots/portraits-2024/` | 3 | Smaller assets, thumbnails |
 | Speaking — freecall (Mar 2026) | `justin/speaking/jg-speaking-freecall-2026.jpg` | 1 | Speaking proof |
-| Speaking — Exit Planning Summit (May 2025) | `justin/speaking/exit-planning-summit-2025/` | 3 | Speaking proof, authority |
+| Speaking — Exit Planning Summit (May 2025) | `justin/speaking/exit-planning-summit-2025/` | 23 | Speaking proof, authority |
 | Lifestyle — Anguilla (Apr 2026) | `justin/lifestyle/jg-lifestyle-anguilla-2026.jpg` | 1 | Lifestyle / brand |
+| Behind the scenes (2024) | `justin/bts/2024/` | 5 | Behind-the-scenes / brand |
 
 ### `proof/client-wins/`
 
@@ -88,7 +89,7 @@ Scales as more events are added (e.g. `destination-decamillionaire/bootcamps/aus
 ```
 justin/<category>/<context>/
 ```
-Categories: `headshots`, `speaking`, `lifestyle`. Context groups by shoot or event.
+Categories: `headshots`, `speaking`, `lifestyle`, `bts`. Context groups by shoot or event.
 
 ### Proof
 ```
